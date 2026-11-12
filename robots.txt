@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://biografiradenyohanma-yohan-berbakat.netlify.app/sitemap.xml
